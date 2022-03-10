@@ -32,11 +32,11 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>СonnectorMinio</Name>
+			<Name>S3Connector</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Сonnector minio</v8:content>
+					<v8:content>S3 connector</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>

@@ -28,18 +28,18 @@
 		<Metadata name="Catalog.ТомаХраненияФайлов.Form.ФормаЭлемента.Form" id="2d95afc9-27bf-4cf6-9a1b-da94bfd3c3d6.0" configVersion="b3db79c39832c0e0ddffa87aeea45827ee357d3f"/>
 		<Metadata name="Catalog.ТомаХраненияФайлов.ObjectModule" id="0246ee5f-ab41-4f3c-a5a1-eaa38b9e6f1d.0" configVersion="6e9e94598cb3ece20140b4ec7b849159931b10fd"/>
 		<Metadata name="CommonModule.MinioS3Connector" id="e971666b-c5e6-4001-aaed-4631d98a5ebe" configVersion="bbe38bd0035964449b6a0d061f039d4748f30692"/>
-		<Metadata name="CommonModule.MinioS3Connector.Module" id="e971666b-c5e6-4001-aaed-4631d98a5ebe.0" configVersion="f4c1652358a5b3e21250e1557ee117d97fe25a22"/>
+		<Metadata name="CommonModule.MinioS3Connector.Module" id="e971666b-c5e6-4001-aaed-4631d98a5ebe.0" configVersion="bb7da16c7b368c8223231f2d5041a36743ef978a"/>
 		<Metadata name="CommonModule.sd_HTTPConnector" id="3a8db519-8fd6-48df-95fe-5b73257fed3d" configVersion="312836a1e6b5a269e46b4e7a66306b47d581e989"/>
 		<Metadata name="CommonModule.sd_HTTPConnector.Module" id="3a8db519-8fd6-48df-95fe-5b73257fed3d.0" configVersion="9e0f8b637715ea283281bd33421288be4b5f42db"/>
-		<Metadata name="CommonModule.РаботаСФайламиВТомахСлужебный" id="ec3b0727-e6a0-430c-8889-67afd0e81599" configVersion="30c2cd0ff51b7d56349091eb295f6cf67d10bae0"/>
-		<Metadata name="CommonModule.РаботаСФайламиВТомахСлужебный.Module" id="ec3b0727-e6a0-430c-8889-67afd0e81599.0" configVersion="46d7ce417a96fecba2e984e9589b27deef275271"/>
-		<Metadata name="Configuration.СonnectorMinio" id="f512a17f-9cfd-41ec-8bf3-030246766ee6" configVersion="96d078dbed29872e56555c04ea74ab64ac2c3d1c"/>
+		<Metadata name="CommonModule.РаботаСФайламиВТомахСлужебный" id="ec3b0727-e6a0-430c-8889-67afd0e81599" configVersion="bc9e529b548ba9de185e854cd9601228331447e7"/>
+		<Metadata name="CommonModule.РаботаСФайламиВТомахСлужебный.Module" id="ec3b0727-e6a0-430c-8889-67afd0e81599.0" configVersion="5d1b23251651e3147725db5f57cb08b3cb09dd6e"/>
+		<Metadata name="Configuration.S3Connector" id="f512a17f-9cfd-41ec-8bf3-030246766ee6" configVersion="b7a7cbd2293480d54feca295ad6251167ae8e796"/>
 		<Metadata name="Enum.sd_МестоХраненияФайлов" id="cf9295dc-8174-4eea-9d28-661569b1cc7a" configVersion="5350878cee1641bace2d43353f6d2ed78c95f05f">
 			<Metadata name="Enum.sd_МестоХраненияФайлов.EnumValue.ХранилищеS3Minio" id="9c729cba-06e6-4ae9-9b46-5c2dd3b06053"/>
 			<Metadata name="Enum.sd_МестоХраненияФайлов.EnumValue.ЛокальноеХранилище" id="d11e39a7-77d1-49ba-997b-3786d482a5d0"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="520e9be5-0650-417f-9dbe-76b54d4e592a" configVersion="5702f6685025d60ed53bd91e303a2b142b1cc567"/>
 		<Metadata name="Role.sd_ОсновнаяРоль" id="b5aef1cb-a628-479e-bb76-52dba173dd22" configVersion="4f6763a3a4cb2db356db8075116554caf18a58d9"/>
-		<Metadata name="Subsystem.ConnectorMinio" id="448fd613-f17d-45f9-a9d5-3415e4201f05" configVersion="9d76460188cd2cf9bc4b7aef795bb2038d306889"/>
+		<Metadata name="Subsystem.ConnectorMinio" id="448fd613-f17d-45f9-a9d5-3415e4201f05" configVersion="2881a703f25fe28b2b89a3ad5b8f61350974be23"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
