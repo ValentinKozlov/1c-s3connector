@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<ChildItems>
+		<InputField name="Код" id="1">
+			<EditMode>EnterOnInput</EditMode>
+			<ContextMenu name="КодКонтекстноеМеню" id="2"/>
+			<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
+		</InputField>
+		<InputField name="ФИО" id="4">
+			<EditMode>EnterOnInput</EditMode>
+			<ContextMenu name="ФИОКонтекстноеМеню" id="5"/>
+			<ExtendedTooltip name="ФИОРасширеннаяПодсказка" id="6"/>
+		</InputField>
+		<InputField name="ДатаРождения" id="7">
+			<DataPath>1/0:1290b476-4db7-4305-9ffd-b4abb8d74ff1</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ContextMenu name="ДатаРожденияКонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="ДатаРожденияРасширеннаяПодсказка" id="9"/>
+		</InputField>
+		<Button name="Кнопка1" id="10">
+			<Type>UsualButton</Type>
+			<CommandName>0</CommandName>
+			<ExtendedTooltip name="Кнопка1РасширеннаяПодсказка" id="11"/>
+		</Button>
+	</ChildItems>
+	<Attributes/>
+	<BaseForm version="2.13">
+		<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
+		<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+		<ChildItems>
+			<InputField name="Код" id="1">
+				<EditMode>EnterOnInput</EditMode>
+				<ContextMenu name="КодКонтекстноеМеню" id="2"/>
+				<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
+			</InputField>
+			<InputField name="ФИО" id="4">
+				<EditMode>EnterOnInput</EditMode>
+				<ContextMenu name="ФИОКонтекстноеМеню" id="5"/>
+				<ExtendedTooltip name="ФИОРасширеннаяПодсказка" id="6"/>
+			</InputField>
+			<InputField name="ДатаРождения" id="7">
+				<DataPath>1/0:1290b476-4db7-4305-9ffd-b4abb8d74ff1</DataPath>
+				<EditMode>EnterOnInput</EditMode>
+				<ContextMenu name="ДатаРожденияКонтекстноеМеню" id="8"/>
+				<ExtendedTooltip name="ДатаРожденияРасширеннаяПодсказка" id="9"/>
+			</InputField>
+			<Button name="Кнопка1" id="10">
+				<Type>UsualButton</Type>
+				<CommandName>0</CommandName>
+				<ExtendedTooltip name="Кнопка1РасширеннаяПодсказка" id="11"/>
+			</Button>
+		</ChildItems>
+		<Attributes/>
+	</BaseForm>
+</Form>
