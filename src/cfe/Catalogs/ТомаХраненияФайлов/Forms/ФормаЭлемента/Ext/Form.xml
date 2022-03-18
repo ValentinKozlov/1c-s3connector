@@ -244,7 +244,7 @@
 	</Attributes>
 	<BaseForm version="2.13">
 		<CommandSet>
-			<ExcludedCommand>WriteAndClose</ExcludedCommand>
+			<ExcludedCommand>OpenFromStandaloneServer</ExcludedCommand>
 		</CommandSet>
 		<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 		<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">

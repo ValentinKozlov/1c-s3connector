@@ -295,8 +295,7 @@
 			</xr:Item>
 		</MobileDeviceCommandBarContent>
 		<CommandSet>
-			<ExcludedCommand>Delete</ExcludedCommand>
-			<ExcludedCommand>SetDeletionMark</ExcludedCommand>
+			<ExcludedCommand>OpenFromStandaloneServer</ExcludedCommand>
 		</CommandSet>
 		<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
 			<Autofill>false</Autofill>
